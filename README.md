@@ -23,7 +23,7 @@ It is a basic beginner-level project to understand core web development concepts
 ├── script.js
 
 ⚙️ How to Run the Project
-Download or clone the repository: git clone https://github.com/your-username/your-repo-name.git
+Download or clone the repository: git clone https://github.com/Sushrut-Kadate/To-Do-List-Application.git
 
 Open the project folder
 Open index.html in your web browser
